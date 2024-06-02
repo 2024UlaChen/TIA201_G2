@@ -11,5 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 public class rose  {
 	public static void main(String[] args) {
 		System.out.println("push翻譯錯誤");
+		System.out.println("你好");
 	}
 }
